@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ae7lmek6WMPsPjZEDJGxCmFYADeTJriejVJyxkJrdcg=",
+  "Source": "Olaran.API",
+  "BasePath": "_content/Olaran.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
